@@ -335,9 +335,7 @@ function App() {
               <div ref={analysisRef} />
             </div>
 
-            <div className="mt-4 text-xs text-white/50 text-center">
-              Powered by Codewitzz AI• Analysis for educational purposes only
-            </div>
+            
           </div>
         </div>
       </div>
